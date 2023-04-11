@@ -6,7 +6,7 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/dmateome-nttdata/course-microservice.git
+          uri: https://github.com/dmateome-nttdata/RetoInicial.git
           searchPaths: config-data
           username: dmateome-nttdata
           password: iH8O7P7D0gg
