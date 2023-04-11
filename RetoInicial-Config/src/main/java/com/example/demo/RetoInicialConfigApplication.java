@@ -6,7 +6,7 @@ import org.springframework.boot.autoconfigure.security.servlet.SecurityAutoConfi
 import org.springframework.cloud.config.server.EnableConfigServer;
 
 @EnableConfigServer
-@SpringBootApplication(exclude= {SecurityAutoConfiguration.class})
+@SpringBootApplication
 public class RetoInicialConfigApplication {
 
 	public static void main(String[] args) {
